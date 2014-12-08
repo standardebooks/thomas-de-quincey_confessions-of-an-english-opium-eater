@@ -1,0 +1,45 @@
+@charset "UTF-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+.signature{
+	font-style: italic;
+	margin-top: 2em;
+	text-align: right;
+}
+
+ol li p:first-child{
+	text-indent: 0;
+}
+
+table thead td{
+	text-align: center;
+	font-weight: bold;
+}
+
+table tbody td:first-child,
+table tbody td:nth-child(4){
+	text-align: right;
+}
+
+table + p{
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+*[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+*[epub|type~="z3998:poem"] p span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+*[epub|type~="z3998:poem"] br{
+	display: none;
+}
