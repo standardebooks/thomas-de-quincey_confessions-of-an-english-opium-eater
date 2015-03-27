@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">https://standardebooks.org/ebooks/thomas-de-quincy/confessions-of-an-english-opium-eater</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-03-27T20:21:25Z</meta>
+		<meta property="dcterms:modified">2015-03-27T23:31:36Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -38,8 +38,8 @@
 		<dc:description id="description">A portrait of the life of a drug addict in Georgian-era London.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Thomas De Quincy spent much of his life addicted to the powerful drug opium.  This book, first published anonymously in the &lt;i&gt;London Magazine&lt;/i&gt;, is the autobiographical account of his addiction.  De Quincy&amp;rsquo;s compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.&lt;/p&gt;
-			&lt;p&gt;As the science of addiction was an unheard of thing at the time, De Quincy&amp;rsquo;s account became a sort of authoritative reference for decades, with people going so far as to denounce the book or presenting too pleasurable a picture of opium use.  His work stands as a fascinating window into the life of a Georgian-era addict in one of the busiest cities in the world.&lt;/p&gt;
+			&lt;p&gt;Thomas De Quincey spent much of his life addicted to the powerful drug opium.  This book, first published anonymously in the &lt;i&gt;London Magazine&lt;/i&gt;, is the autobiographical account of his addiction.  De Quincey&amp;rsquo;s compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.&lt;/p&gt;
+			&lt;p&gt;As the science of addiction was an unheard of thing at the time, De Quincey&amp;rsquo;s account became a sort of authoritative reference for decades, with people going so far as to denounce the book or presenting too pleasurable a picture of opium use.  His work stands as a fascinating window into the life of a Georgian-era addict in one of the busiest cities in the world.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
