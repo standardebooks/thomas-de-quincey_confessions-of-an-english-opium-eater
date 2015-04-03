@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-03T00:06:49Z</meta>
+		<meta property="dcterms:modified">2015-04-03T00:11:01Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -46,7 +46,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/2040</dc:source>
 		<dc:source>https://archive.org/stream/confessionsofen00dequ</dc:source>
 		<meta property="se:word-count">36721</meta>
-		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater</meta>
 		<dc:creator id="author">Thomas De Quincey</dc:creator>
 		<meta property="file-as" refines="#author">De Quincey, Thomas</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_De_Quincey</meta>
