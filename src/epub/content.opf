@@ -50,11 +50,11 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-de-quincey_confessions-of-an-english-opium-eater</meta>
 		<dc:creator id="author">Thomas De Quincey</dc:creator>
 		<meta property="file-as" refines="#author">De Quincey, Thomas</meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_De_Quincey</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_De_Quincey</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Willard Metcalf</dc:contributor>
 		<meta property="file-as" refines="#artist">Metcalf, Willard</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willard_Metcalf</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willard_Metcalf</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
