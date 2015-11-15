@@ -53,11 +53,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Thomas_De_Quincey</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50001719.html</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Willard Metcalf</dc:contributor>
-		<meta property="file-as" refines="#artist">Metcalf, Willard</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Willard Leroy Metcalf</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Willard_Metcalf</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85274600.html</meta>
+		<dc:contributor id="artist">Pál Szinyei Merse</dc:contributor>
+		<meta property="file-as" refines="#artist">Szinyei Merse, Pál</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/P%C3%A1l_Szinyei_Merse</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81099061.html</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Price</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
