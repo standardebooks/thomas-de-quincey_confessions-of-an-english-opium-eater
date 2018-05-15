@@ -43,3 +43,9 @@ table tbody td:nth-child(4){
 abbr.name{
 	white-space: nowrap;
 }
+
+header{
+	font-variant: small-caps;
+	margin: 3em;
+	text-align: center;
+}
