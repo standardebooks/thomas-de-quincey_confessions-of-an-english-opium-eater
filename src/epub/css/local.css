@@ -40,12 +40,8 @@ table tbody td:nth-child(4){
 	text-indent: 0;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
-header{
+section > header{
 	font-variant: small-caps;
-	margin: 3em;
-	text-align: center;
+	margin-bottom: 1em;
+	margin-top: 3em;
 }
