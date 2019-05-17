@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Confessions of an English Opium-Eater</dc:title>
 		<meta property="file-as" refines="#title">Confessions of an English Opium-Eater</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -40,19 +40,21 @@
 		<dc:subject id="subject-2">Drug addicts--Great Britain--Biography</dc:subject>
 		<dc:subject id="subject-3">Authors, English--19th century--Biography</dc:subject>
 		<dc:subject id="subject-4">Opium abuse--England</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/56058018</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/56058018</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/56058018</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/56058018</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008102443</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007101500</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008108663</meta>
 		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A portrait of the life of a drug addict in Georgian-era London.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Thomas De Quincey spent much of his life addicted to the powerful drug opium. This book, first published anonymously in the &lt;i&gt;London Magazine&lt;/i&gt;, is the autobiographical account of his addiction. De Quincey’s compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.&lt;/p&gt;
 			&lt;p&gt;As the science of addiction was an unheard of thing at the time, De Quincey’s account became a sort of authoritative reference for decades, with people going so far as to denounce the book or presenting too pleasurable a picture of opium use. His work stands as a fascinating window into the life of a Georgian-era addict in one of the busiest cities in the world.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2040</dc:source>
 		<dc:source>https://archive.org/details/confessionsofen00dequ</dc:source>
