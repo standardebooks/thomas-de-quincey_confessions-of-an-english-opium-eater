@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="part-1.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>This is an unusual ordinal of "decimo" and not strictly an abbreviation.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
