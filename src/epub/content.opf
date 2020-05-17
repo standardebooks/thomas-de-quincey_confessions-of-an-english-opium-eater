@@ -52,7 +52,7 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A portrait of the life of a drug addict in Georgian-era London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Thomas De Quincey spent much of his life addicted to the powerful drug opium. This book, first published anonymously in the &lt;i&gt;London Magazine&lt;/i&gt;, is the autobiographical account of his addiction. De Quincey’s compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/thomas-de-quincey"&gt;Thomas De Quincey&lt;/a&gt; spent much of his life addicted to the powerful drug opium. This book, first published anonymously in the &lt;i&gt;London Magazine&lt;/i&gt;, is the autobiographical account of his addiction. De Quincey’s compelling language and frankness give the reader a window in to both the strange pleasures and the horrible pains of that famous drug.&lt;/p&gt;
 			&lt;p&gt;As the science of addiction was an unheard of thing at the time, De Quincey’s account became a sort of authoritative reference for decades, with people going so far as to denounce the book or presenting too pleasurable a picture of opium use. His work stands as a fascinating window into the life of a Georgian-era addict in one of the busiest cities in the world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
