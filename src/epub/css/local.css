@@ -6,7 +6,7 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-style: italic;
 	margin-top: 2em;
 	text-align: right;
