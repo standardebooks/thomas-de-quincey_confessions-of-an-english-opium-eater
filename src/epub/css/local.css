@@ -12,6 +12,10 @@ blockquote[xml|lang]{
 	text-align: right;
 }
 
+table{
+	margin: 1em;
+}
+
 table thead td{
 	text-align: center;
 	font-weight: bold;
