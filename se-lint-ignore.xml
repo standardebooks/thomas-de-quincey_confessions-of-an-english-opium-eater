@@ -6,4 +6,10 @@
 			<reason>This is an unusual ordinal of "decimo" and not strictly an abbreviation.</reason>
 		</ignore>
 	</file>
+	<file path="part-2.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
