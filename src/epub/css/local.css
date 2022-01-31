@@ -17,8 +17,8 @@ table{
 }
 
 table thead td{
-	text-align: center;
 	font-weight: bold;
+	text-align: center;
 }
 
 table tbody td:first-child,
