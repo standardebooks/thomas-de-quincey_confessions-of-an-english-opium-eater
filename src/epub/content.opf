@@ -40,7 +40,7 @@
 		<dc:subject id="subject-3">Authors, English--19th century--Biography</dc:subject>
 		<dc:subject id="subject-4">Opium abuse--England</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="term" refines="#subject-1">n50001719</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008102443</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
