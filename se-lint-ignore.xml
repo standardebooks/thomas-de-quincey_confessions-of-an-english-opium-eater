@@ -8,7 +8,7 @@
 	</file>
 	<file path="part-2.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
