@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2040</dc:source>
 		<dc:source>https://archive.org/details/confessionsofen00dequ</dc:source>
 		<meta property="se:word-count">36772</meta>
-		<meta property="se:reading-ease.flesch">44.71</meta>
+		<meta property="se:reading-ease.flesch">44.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Confessions_of_an_English_Opium-Eater</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-de-quincey_confessions-of-an-english-opium-eater</meta>
 		<dc:creator id="author">Thomas De Quincey</dc:creator>
