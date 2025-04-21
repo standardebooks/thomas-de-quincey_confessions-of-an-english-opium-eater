@@ -17,9 +17,13 @@ table{
 	margin: 1em;
 }
 
-table thead td{
-	font-weight: bold;
+th{
 	text-align: center;
+}
+
+thead tr:last-child th{
+	font-weight: normal;
+	text-align: left;
 }
 
 table tbody td:first-child,
