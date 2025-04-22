@@ -23,7 +23,7 @@ th{
 
 thead tr:last-child th{
 	font-weight: normal;
-	text-align: left;
+	text-align: initial;
 }
 
 table tbody td:first-child,
