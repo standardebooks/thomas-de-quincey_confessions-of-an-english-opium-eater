@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Confessions of an English Opium-Eater: Being an Extract from the Life of a Scholar</dc:title>
 		<meta property="file-as" refines="#fulltitle">Confessions of an English Opium-Eater</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">De Quincey, Thomas, 1785-1859</dc:subject>
 		<dc:subject id="subject-2">Drug addicts--Great Britain--Biography</dc:subject>
 		<dc:subject id="subject-3">Authors, English--19th century--Biography</dc:subject>
